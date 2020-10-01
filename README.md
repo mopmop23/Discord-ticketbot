@@ -27,3 +27,4 @@ npm install(make sure the package.json is there)
 If you are having any trouble running the script, you are free to open an issue and I will have a look.
 
 
+[![Run on Repl.it](https://repl.it/badge/github/Dev3211/Discord-ticketbot)](https://repl.it/github/Dev3211/Discord-ticketbot)
